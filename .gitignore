@@ -25,9 +25,8 @@ codekit-config.json
 .idea
 
 # Jekyll generated files
-_site
-.sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
+.sass-cache
 _asset_bundler_cache
+_site
